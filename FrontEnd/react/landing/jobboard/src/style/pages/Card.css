@@ -1,0 +1,15 @@
+.bodc:hover {
+    box-shadow: 0 0 10px #ffffff;
+  }
+
+  .but{
+    margin-left: 25%;
+  }
+
+.bodc{
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+.popup{
+  width: 100%;
+}

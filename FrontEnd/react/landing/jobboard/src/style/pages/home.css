@@ -1,0 +1,21 @@
+.titre{
+    
+    margin-top: 10%;
+}
+
+
+
+.img{
+    margin-left: 35%;
+}
+
+.titre,.soustitre{
+    align-content: center;
+    color: white;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.Home{
+    background-color: #282c34;
+    ;
+}

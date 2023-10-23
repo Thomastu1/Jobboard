@@ -1,0 +1,31 @@
+.Navig{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+
+.menu{
+  margin-left: 80%;
+
+}
+
+.Ac,.Ap,.Ai,.Aco{
+  margin-left: 2%;
+  text-decoration: none;
+  color: black;
+}
+
+.Aco:hover{
+ text-decoration: underline;
+}
+.Ac:hover{
+  text-decoration: underline;
+ }
+ .Ap:hover{
+  text-decoration: underline;
+ }
+.Ai:hover{
+  text-decoration: underline;
+ }
+
